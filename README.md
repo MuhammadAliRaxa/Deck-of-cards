@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/flutter-deck-of-cards.git
+git clone https://github.com/MuhammadalixRaza/flutter-deck-of-cards.git
 cd flutter-deck-of-cards
 Get dependencies:
 
@@ -61,10 +61,10 @@ GET https://deckofcardsapi.com/api/deck/{deck_id}/shuffle/
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66fed3f3-c209-486d-8188-c5886589079c" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1c526d1b-bfb1-4466-b04a-460ad13452dd" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9051fc69-e2df-41fb-8dc6-faac7f42596b" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1f87b11f-d40a-4450-8a83-63563c6612f7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1be3ec82-8dc2-4a98-b647-c8a9b546a9e8" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7dc047a5-f4dc-464d-9bb1-faedd3fe34f2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e1fd1375-6b60-49f7-9fa7-f4bd6dab5cb7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5e73a724-a15e-4a1e-8cc9-d8a95b16f32c" width="200"/>
 </p>
 
 ## 🔧 Customization Ideas
